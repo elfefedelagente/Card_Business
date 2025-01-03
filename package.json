@@ -2,7 +2,7 @@
   "name": "react-resume-template",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://github.com/elfefedelagente/Card_Business", 
+  "homepage": "https://elfefedelagente.github.io/Card_Business", 
   "scripts": {
     "build": "yarn compile && yarn next build",
     "clean": "rm -rf build-tsc .next",
