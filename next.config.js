@@ -37,8 +37,8 @@ const nextConfig = {
     unoptimized: true, // Para permitir imágenes estáticas con exportación estática
   },
   output: 'export', // Configuración requerida para exportación estática
-  basePath: '',//basePath: '/Card_Business', // Ajusta las rutas para GitHub Pages
-  assetPrefix: '',//assetPrefix: '/Card_Business/', // Prefijo para activos estáticos en GitHub Pages
+  basePath: '/Card_Business', // Ajusta las rutas para GitHub Pages
+  assetPrefix: '/Card_Business/', // Prefijo para activos estáticos en GitHub Pages
 };
 
 module.exports = nextConfig;
